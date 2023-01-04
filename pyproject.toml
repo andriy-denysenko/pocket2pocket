@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pocket2pocket"
+version = "0.0.1"
+authors = [
+  { name="Andriy Denysenko", email="denysenko.andriy@gmail.com" },
+]
+description = "A console app for importing links from one Pocket account to another one."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/andriy-denysenko/pocket2pocket/"
+"Bug Tracker" = "https://github.com/andriy-denysenko/pocket2pocket/issues"

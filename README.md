@@ -1,2 +1,3 @@
 # pocket2pocket
-Lets exchange links between two Pocket accounts.
+## Import all links from one Pocket account and export them to another one.
+This is a console app for importing links from one Pocket account to another one.
